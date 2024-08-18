@@ -13,15 +13,16 @@ This project demonstrates how to create a swipe tab interface in an iOS applicat
 - *Dynamic Content:* Each tab can hold different types of content.
 - *Smooth Transitions:* The transitions between tabs are smooth and responsive.
 
+### Installation
 
-1. *Clone the repository:*
+ - *Clone the repository:*
    bash git clone https://github.com/babu-iOS/Scrollable-Tab.git
    
    
-2. *Open the project:*
+- *Open the project:*
    Open the project in Xcode or your preferred IDE.
 
-3. *Run the project:*
+- *Run the project:*
    Build and run the project on a simulator or an actual device.
 
 ### Usage
